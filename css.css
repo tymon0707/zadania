@@ -9,4 +9,37 @@ body
 }
 p{
     color: white;
+    font-size: 50px;
+    border: 1px solid black;
 }
+#pt
+{
+    height: 200px;
+    width: 600px;
+    font-size: 60px;
+    background-color: red;
+}
+#pt2
+{
+    height: 200px;
+    width: 600px;
+    font-size: 60px;
+    background-color: red;
+}
+#but
+{
+    height: 100px;
+    width: 300px;
+    background-color: purple;
+}
+#obok1 {
+    float:left;
+    width:40%;
+    background-color:lightblue;
+  }
+  
+  #obok2 {
+    float:left;
+    width:30%;
+    background-color:lightgreen;
+  }

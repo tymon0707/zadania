@@ -34,12 +34,15 @@ p{
 }
 #obok1 {
     float:left;
-    width:40%;
-    background-color:lightblue;
+    width:50%;
   }
   
   #obok2 {
     float:left;
-    width:30%;
-    background-color:lightgreen;
+    width:50%;
+  }
+  #zdj2
+  {
+    width: 300px;
+    height: 300px;
   }

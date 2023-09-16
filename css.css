@@ -1,1 +1,12 @@
-vavvas
+body
+{
+    background-color: aqua;
+}
+#zdj
+{
+    height: 100px;
+    width: 100px;
+}
+p{
+    color: white;
+}
